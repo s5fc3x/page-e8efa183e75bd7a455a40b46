@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "90373577f1bf885622e0ce78",
+  "owner": "s5fc3x",
+  "repo": "page-e8efa183e75bd7a455a40b46",
+  "title": "众筹加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e8efa183e75bd7a455a40b46",
+      "a": "众筹加速",
+      "b": "2027官方最新地址导航",
+      "entity": "众筹加速",
+      "brand": "众筹加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "321eaeb6c26f73923bc680ae435975c18ee6e5af0da6bd34535743f78cf602f0",
+      "content": {
+        "primary_entity": "众筹加速",
+        "keyword1": "众筹加速",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，电视盒子与路由器另有独立配置方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对照设备数量与月流量，选择最匹配的套餐开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定连接",
+          "AI_DESCRIPTION": "，面向跨境网络需求提供多档加速服务，围绕流量额度、设备并发数和线路质量划分套餐。基础版每月 100GB 流量、支持 3 台设备同时在线，适合轻量浏览与基础流媒体；旗舰版提供每月 300GB 流量、5 台设备并发、全节点原生流媒体解锁与 IPLC 专线游戏优化；团队版面向多设备协作场景，每月 1000GB 流量、支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与企业定制路由。按年付费可降低月均成本，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度理解套餐差异。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合单人轻度流量场景，旗舰版 300GB 满足流媒体与游戏混合需求。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档并发设备数，覆盖手机、电脑、平板与电视盒子的组合使用。",
+          "AI_FEATURE_TITLE_2": "按设备数定档",
+          "AI_FEATURE_TEXT_3": "普通线路节点池适合日常浏览，IPLC 专线与 VIP 高带宽节点更贴合游戏加速和团队密集访问。",
+          "AI_FEATURE_TITLE_3": "按线路定体验",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备适配，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "上手三步",
+          "AI_HERO_INTRO": "众筹加速提供多档流量与设备并发方案，涵盖基础浏览、流媒体解锁、IPLC 专线游戏优化及团队多设备接入。根据日常流量与在线设备数量选择版本，按年付费可进一步降低月均开销。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备与流量",
+          "AI_HIGHLIGHT_1": "三档流量：100GB、300GB、1000GB",
+          "AI_HIGHLIGHT_2": "最多 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线与 VIP 高带宽节点",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。按设备并发数与月流量需求对照选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量用量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，核对套餐支持的并发设备数是否覆盖所有终端。",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TEXT_3": "按照对应客户端的使用文档导入订阅配置，完成连接后即可开始使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "众筹加速套餐速览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。先看同时在线设备数和月流量需求，再选对应档位即可。",
+          "AI_FAQ_ANSWER_2": "基础版适合 3 台以内设备、月流量 100GB 左右的个人使用；旗舰版适合 5 台设备、需要 IPLC 专线游戏加速的场景；团队版适合 20 台设备、1000GB 流量及企业定制路由需求。",
+          "AI_FAQ_ANSWER_3": "年付相比月付有明显节省，基础版按年付 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于约十个月月付价格，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "Windows 用 Clash Verge 或 v2rayN，macOS 用 ClashX Meta 或 Stash，iOS 用 Shadowrocket 或 Stash，Android 用 Clash Meta for Android 或 v2rayNG。导入订阅后按客户端文档完成配置即可。",
+          "AI_FAQ_ANSWER_5": "套餐主要区别在流量额度、设备数量和节点类型。旗舰版独有 IPLC 专线游戏加速优化，团队版独有 VIP 专属高带宽节点、企业定制路由与专属客户经理。",
+          "AI_FAQ_INTRO": "套餐选择、设备数量与订阅配置。",
+          "AI_FAQ_QUESTION_1": "各个套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何判断自己适合哪一档套餐？",
+          "AI_FAQ_QUESTION_3": "按年付划算吗？",
+          "AI_FAQ_QUESTION_4": "不同设备应该选哪个客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nxwweva.cn",
+    "host": "nxwweva.cn"
+  },
+  "file_hashes": {
+    "index.html": "d49f1375aed2b2b1b5623cb76361791952935ef41a5609a2dec589812850b00f",
+    "sitemap.xml": "87b4a1ad00b2ade462126a745c385adf69e185c29542e7fd1bd748203a8edf47",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "110b516f840b33eccdcf6d508f4129d192b76730d840c6877f807f7b40d76633",
+    "robots.txt": "fdaab2274863b2f21c3ebbf47504ae47c6d78886f048502aa152cffb254edac5",
+    "4a78e68ac49ab54a88de0c10a58fca6e.txt": "0f4b043af872831743166bb6dc524cf5415dca490a269d0410e4ebedd29b7367"
+  },
+  "revision": "fb0ae8d4a151a968a13869511a322785320d1521cddf2c34932f06f4b42ba31c"
+}

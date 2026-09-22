@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nxwweva.cn/sitemap.xml
